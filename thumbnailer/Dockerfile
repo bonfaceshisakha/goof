@@ -1,4 +1,4 @@
-FROM python:3.12.11
+FROM python:3.14.2
 
 RUN pip install flask
 
